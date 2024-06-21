@@ -53,7 +53,7 @@ def header():
     """
     # --- Set up the page ---
     st.set_page_config(
-        page_title="EC2 Developer Guide & Pricing Chatbot",
+        page_title="Chervon-AWSglobal-security-agent-testing",
         page_icon=":computer:",
         layout="centered",
     )

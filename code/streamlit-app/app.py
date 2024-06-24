@@ -53,7 +53,7 @@ def header():
     """
     # --- Set up the page ---
     st.set_page_config(
-        page_title="Chervon-AWSglobal-security-agent-testing",
+        page_title="Chervon-AWSglobal-security-chatbot-demo",
         page_icon=":computer:",
         layout="centered",
     )
@@ -70,9 +70,9 @@ def header():
         )
 
     with col2:
-        st.markdown("# EC2 Developer Guide & Pricing Chatbot Demo")
+        st.markdown("# Chervon-AWSglobal-security-chatbot-demo")
 
-    st.write("#### Ask me about Amazon EC2 in Linux and Pricing Details")
+    st.write("#### Ask me about security status of AWS WAF and AWS IDS")
     st.write("-----")
 
 
